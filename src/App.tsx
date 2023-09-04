@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg';
 import './App.css';
 
 // export function name(params: string) {
-//   console.log(params);
+//    console.log(params);
 // }
 
 function App() {
